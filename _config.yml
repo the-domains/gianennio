@@ -1,26 +1,23 @@
-name: gianennio
-favicon: null
-layout_spectrum: 0.02478790213353932
 typography_spectrum: 0.963560544885695
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.02478790213353932
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: gianennio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+purpose: []
